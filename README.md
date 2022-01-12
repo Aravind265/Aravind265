@@ -2,7 +2,7 @@
 #### I'm Aravindkumar.V, currently in my 3rd year of M.Sc.Software Systems at PSG College of Technology
 #### ⚡ Currently learning Android, IOT and AI
 #### ⚡ Interested in Full stack development
-#### ⚡ Also have interests in ML, Data Compression
+#### ⚡ Also have interests in ML and Data Compression
 
 ### Languages I know
 <div align="left">
