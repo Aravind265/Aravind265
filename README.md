@@ -1,10 +1,10 @@
-## Hi there 👋
+### Hi there 👋
 #### I'm Aravindkumar.V, currently in my 3rd year of M.Sc.Software Systems at PSG College of Technology
 #### ⚡ Currently learning Android, IOT and AI
 #### ⚡ Interested in Full stack development
 #### ⚡ Also have interests in ML, Data Compression
 
-## Languages I know
+### Languages I know
 <div align="left">
   <a href="#"><img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /> </a>
   <a href="#"><img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> </a>
@@ -18,7 +18,7 @@
   <a href="#"><img alt="Shell Script" src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" /> </a>
 </div>
 
-## Tools and Frameworks I've worked on 
+### Tools and Frameworks I've worked on 
 <div align="left">
   <a href="#"><img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> </a>
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" /> </a>
